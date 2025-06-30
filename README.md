@@ -11,7 +11,7 @@ A complete food ordering system with:
 
 - **Frontend**: [website-frontend](https://website-frontend-ewy9.onrender.com)
 - **Backend**: [website-backend](https://website-backend-6jiz.onrender.com)
-- **Admin Panel**: 
+- **Admin Panel**: [website-admin-panel](https://website-admin-panel.onrender.com)
 
 ---
 
