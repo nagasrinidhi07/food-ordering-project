@@ -1,0 +1,9 @@
+[submodule "website-frontend"]
+	path = website-frontend
+	url = https://github.com/nagasrinidhi07/website-frontend.git
+[submodule "website-backend"]
+	path = website-backend
+	url = https://github.com/nagasrinidhi07/website-backend.git
+[submodule "admin-panel"]
+	path = admin-panel
+	url = https://github.com/nagasrinidhi07/admin-panel.git
